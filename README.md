@@ -1,4 +1,4 @@
-align="center">Hi 👋, I'm Ab Siddik</h1>
+I'm Ab Siddik</h1>
 <h3 align="center">Student • Developer • Tech Enthusiast</h3>
 
 ---
