@@ -1,76 +1,121 @@
+# 👋 Hi, I'm AB Siddik
 
-Creative Developer • Digital Storyteller • Travel Creator from Bangladesh 🇧🇩
-I build modern web experiences that combine technology, storytelling, and design.
-My work focuses on creating products and interfaces that feel immersive, useful, and emotionally engaging.
+### Creative Frontend Developer • Digital Storyteller • Travel Creator 🇧🇩
 
-From building web tools like file-sharing platforms and QR utilities to documenting real adventures across Bangladesh through my travel brand Way to Adventure, I enjoy turning ideas into experiences people can interact with and remember.
+I build modern web experiences that combine technology, design, and storytelling.
+Passionate about creating immersive digital products, cinematic interfaces, and meaningful user experiences.
 
-🚀 What I Do
-💻 Frontend & Creative Web Development
-🎨 UI/UX Design & Motion Interfaces
-🌍 Travel Storytelling & Digital Media
-⚡ Building Modern Web Products
-📹 Content Creation & Visual Branding
-🔥 Featured Projects
-🌉 AirBridge
+---
+
+## 🚀 About Me
+
+- 💻 Frontend & Creative Web Developer
+- 🎨 UI/UX & Motion Design Enthusiast
+- 🌍 Founder of **Way to Adventure**
+- 📹 Travel Content Creator from Bangladesh
+- ⚡ Passionate about modern web products & interactive experiences
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend Development
+- React
+- Next.js
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### UI/UX & Animation
+- Framer Motion
+- GSAP
+- Figma
+
+### Tools & Platforms
+- Git & GitHub
+- Vercel
+- Netlify
+
+---
+
+# 🔥 Featured Projects
+
+## 🌉 AirBridge
 A modern web-based file sharing platform inspired by AirDrop.
 
-Features
-Instant file transfer
-Cross-device sharing
-Clean modern UI
-Fast and lightweight experience
-Vision
-A seamless bridge between devices for creators and everyday users.
+### Features
+- Cross-device file sharing
+- Fast & minimal UI
+- Modern responsive experience
 
-📱 QR Toolkit Pro
+---
+
+## 📱 QR Toolkit Pro
 An all-in-one QR utility platform.
 
-Features
-QR generation
-QR scanning
-Download & customization
-Modern responsive interface
-🌍 Way to Adventure Official
-My cinematic travel and storytelling platform inspired by real journeys across Bangladesh.
+### Features
+- QR Generator
+- QR Scanner
+- Download & customization
+- Responsive modern interface
 
-Focus
-Adventure
-Culture
-Local experiences
-Visual storytelling
-🛠️ Tech Stack
-Frontend
-React
-Next.js
-JavaScript
-Tailwind CSS
-Design & Motion
-Framer Motion
-GSAP
-Figma
-Tools
-Git & GitHub
-Vercel
-Netlify
-🌱 Currently Learning
-Advanced React Architecture
-Motion Design Systems
-3D Web Experiences
-Product-Focused UI/UX
-🎯 My Goal
+---
+
+## 🌍 Way to Adventure Official
+A cinematic travel storytelling platform inspired by real journeys across Bangladesh.
+
+### Focus
+- Adventure
+- Culture
+- Local storytelling
+- Visual experiences
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced React Architecture
+- Motion Design Systems
+- 3D Web Experiences
+- Product-Focused UI/UX
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abrsiddik&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abrsiddik&theme=tokyonight" />
+</p>
+
+---
+
+# 🎯 Goals
+
 To become a developer who combines:
+- Engineering
+- Storytelling
+- Design
+- Motion
+- Product Thinking
 
-engineering
-cinematic design
-storytelling
-product thinking
-into unique digital experiences.
+into meaningful digital experiences.
 
-🌐 Connect With Me
-🎥 YouTube: Way to Adventure
-💼 GitHub: abrsiddik
-🌍 Portfolio: Coming Soon
-⚡ Fun Fact
-I don’t just build websites —
-I try to create experiences inspired by adventure, creativity, and human stories.
+---
+
+# 🌐 Connect With Me
+
+- 🎥 YouTube: Way to Adventure
+- 💼 GitHub: github.com/abrsiddik
+- 🌍 Portfolio: Coming Soon
+
+---
+
+# ⚡ Fun Fact
+
+I don't just build websites —
+I create digital experiences inspired by adventure, creativity, and human stories.
