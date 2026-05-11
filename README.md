@@ -1,4 +1,4 @@
-👋 Hi, I’m AB Siddik
+
 Creative Developer • Digital Storyteller • Travel Creator from Bangladesh 🇧🇩
 I build modern web experiences that combine technology, storytelling, and design.
 My work focuses on creating products and interfaces that feel immersive, useful, and emotionally engaging.
@@ -74,4 +74,3 @@ into unique digital experiences.
 ⚡ Fun Fact
 I don’t just build websites —
 I try to create experiences inspired by adventure, creativity, and human stories.
-
