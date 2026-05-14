@@ -152,7 +152,7 @@ I believe great digital experiences and great travel stories share the same foun
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abrsiddik)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)]([https://youtube.com/](https://www.youtube.com/@Waytoadventureofficial))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Waytoadventureofficial))
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](abrsiddik.netlify.app)
 
 </div>
